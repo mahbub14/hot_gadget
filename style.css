@@ -1,0 +1,46 @@
+.buy-now-button{
+font-size: 15px;
+font-weight: 450;
+color: white;
+background-color: black;
+padding: 9px 25px;
+border: none;
+border-radius: 8px;
+}
+.carousel-item{
+    padding: 50px;
+}
+.phone{
+    font-size: 30px;
+    font-weight: 300;
+    text-decoration: none;
+}
+.price{
+    text-align: center;
+}
+.container{
+    padding-bottom: 200px;
+}
+
+.phone2{
+    text-decoration: none;
+}
+.card-footer{
+    text-align: center;
+    border-top: none;
+    background-color: white;
+}
+#smart-phone{
+    font-size: 30px;
+    font-weight: bold;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+}
+.unline{
+    text-decoration: underline;
+    text-decoration-color: orange;
+    padding-bottom: 150px;
+}
